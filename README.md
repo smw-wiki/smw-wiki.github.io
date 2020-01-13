@@ -1,2 +1,2 @@
 # smw-wiki
-A wiki dedicated to SMW and resources/tutorials for modifying the game
+Welcome! This is a static wiki dedicated to Super Mario World, and the process of modifying the game, ROM Hacking, particularly guides and resources for it.

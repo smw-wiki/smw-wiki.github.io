@@ -1,0 +1,40 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #22242A;
+}
+
+body {
+  min-height: 100%;
+  color: #ddd;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  padding: 1em;
+}
+
+a, a:link {
+  color: #4183C4;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #8f6ceb;
+}
+
+a:hover, a:active, a:focus {
+  text-decoration: underline;
+}
+
+a:not([href]) {
+  color: #A60000;
+  cursor: not-allowed;
+}

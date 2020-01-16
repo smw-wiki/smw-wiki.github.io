@@ -10,6 +10,10 @@ Welcome! This is a wiki dedicated to Super Mario World and it's community. We wa
 
 Right now, the wiki's core code is being developed privately. While being a static site, it will have a fully functional search, integrations with github for history / source view, and something suitable to replace the concept of talk pages.
 
+# contact
+
+You can reach us at `smw-wiki (at) protonmail  (dot) com`
+
 # legal
 
 - This project is in no way affiliated with Nintendo.

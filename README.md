@@ -12,7 +12,7 @@ Right now, the wiki's core code is being developed privately. While being a stat
 
 # contact
 
-You can reach us at `smw-wiki (at) protonmail  (dot) com`
+You can reach us at `smw-wiki@protonmail.com`
 
 # legal
 

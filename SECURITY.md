@@ -8,6 +8,6 @@ As we are a live website on github pages, anything regarding anything currently 
 
 Please report (suspected) security vulnerabilities to [smw-wiki@protonmail.com](mailto:smw-wiki@protonmail.com)
 
-We will try to get back to you within 48 hours.
+We will try to get back to you within a reasonable timeframe.
 
-If the issue is confirmed, we will attempt a resolution or mitigation asap depending on complexity.
+If the issue is confirmed, we will attempt a resolution or mitigation asap depending on complexity and urgency of the issue.

@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-As we are a live website on github pages, anything regarding anything currently residing in this github repository (`https://github.com/smw-wiki/smw-wiki.github.io`) is applicable.
+As we are a live website on github pages, anything regarding anything currently residing in [this github repository](https://github.com/smw-wiki/smw-wiki.github.io) (`https://github.com/smw-wiki/smw-wiki.github.io`) is applicable.
 
 ## Reporting a Vulnerability
 

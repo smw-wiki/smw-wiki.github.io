@@ -19,5 +19,5 @@ You can reach us at `smw-wiki@protonmail.com`
 - This project is in no way affiliated with Nintendo.
 - Super Mario World and some graphics found on this site are property of Nintendo. All rights reserved by their respective owners.
 - This project takes no responsibility for damages caused by any of the content hosted.
-- This project's code is not yet licensed in any way.
+- This project is "licensed" under the [The Unlicense](https://unlicense.org/)
 - We will never host or distribute commercial ROMs and we do not allow our community to link to where they can be found online.
